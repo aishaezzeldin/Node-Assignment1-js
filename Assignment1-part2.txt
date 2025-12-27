@@ -1,0 +1,24 @@
+1.	forEach : doesn't support break and continue  , not working with await , Array method.  
+1.1 for...of: support breck amd continue , work with await , loop 
+1.2 it depends on the condition. 
+
+
+
+2. hoisting is when we put the declaration on the top before the execution .
+2.1 TDZ is the period between the start of the block and the initialization and in it the variable can't be accessed (variables declared with let or const).
+
+
+
+3. == compare values only , === compare values and types.
+
+
+4. try=> make you try part of code and catch => any errors important to handle errors 
+ 
+
+
+5. Conversion=> when i manually change the type using a code like Number(),String().
+
+Coercion=> that happens automatically by JS like in + or = it convert one of the sides to the other .
+
+
+                       
